@@ -1,13 +1,13 @@
 export class serviceAccount {
 // Your web app's Firebase configuration
-
-    apiKey: "AIzaSyBI6Km3h9P0rUl31c63shaGejKdTjYzQLI";
-    authDomain: "function-test-project-7e981.firebaseapp.com";
-    databaseURL: "https://function-test-project-7e981.firebaseio.com";
-    projectId: "function-test-project-7e981";
-    storageBucket: "function-test-project-7e981.appspot.com";
-    messagingSenderId: "677870189538";
-    appId: "1:677870189538:web:5b20a27cec4c34bfa417bb";
-    measurementId: "G-VC3GWFW17X";
+  apiKey: "AIzaSyD-uOKN1hn2ggXeoTP8cqSZbaG5QVtSrUw";
+  authDomain: "functions-project-7209f.firebaseapp.com";
+  databaseURL: "https://functions-project-7209f.firebaseio.com";
+  projectId: "functions-project-7209f";
+  storageBucket: "functions-project-7209f.appspot.com";
+  messagingSenderId: "57821520061";
+  appId: "1:57821520061:web:768c600a850e7d6c4ed7d4";
+  measurementId: "G-ZYMHBNKLE3";
 
 }
+
